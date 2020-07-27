@@ -1,10 +1,10 @@
 # Hi! I'm Jared
 
-🏡 I live in Taipei, Taiwan.
+🏡&nbsp;&nbsp;I live in Taipei, Taiwan.
 
-🎓 I have a master degree in Department of Information Management.
+🎓&nbsp;&nbsp;I have a master degree in Department of Information Management.
 
-🧑‍💻 I've been working as a front-end developer since 2017.
+🧑‍💻&nbsp;&nbsp;I've been working as a front-end developer since 2017.
 
 ## My Skills
 

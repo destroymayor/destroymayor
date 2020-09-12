@@ -9,6 +9,7 @@
 ## My Skills
 
 * HTML5, CSS, JavaScript
-* UI library (Material-UI, Ant Design)
-* Library and framework (React, Next.js, Vue.js)
+* UI Library (Material-UI, Ant Design)
+* Library and Framework (React, Next.js, Vue.js)
+* State Management (Redux, Recoil)
 * Version Control(Git)

@@ -11,5 +11,5 @@
 * HTML5, CSS, JavaScript
 * UI Library (Material-UI, Ant Design, Element)
 * Library and Framework (React, Next.js, Vue.js)
-* State Management (Redux, Recoil)
+* State Management (Context API, Redux, Recoil)
 * Version Control(Git)

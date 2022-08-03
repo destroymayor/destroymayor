@@ -1,6 +1,6 @@
 ### Jared Chen
 
-I'm Jared, a Front-end Developer working with React and Next.js <br/> who enjoys building great quality and great user experience products.
+I'm Jared, a Front-end Developer working with React and Next.js who enjoys building great quality and great user experience products.
 
 **stacks**
 

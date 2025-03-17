@@ -2,7 +2,7 @@
 
 I'm Jared, a Front-end Developer working with React and Next.js who enjoys building great quality and great user experience products.
 
-[![](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)]([https://codesandbox.io/u/yuki16bit](https://codesandbox.io/u/destroymayor))
+[![](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)]([https://codesandbox.io/u/destroymayor])
 
 **stacks**
 
